@@ -3,11 +3,15 @@
 
     <string name="app_name">Ushare</string>
     <string name="action_settings">Settings</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
     <string name="news">新鲜事</string>
     <string name="source">资源</string>
     <string name="course">课表</string>
     <string name="addCourse">+</string>
+    <string name="addCourseTitle">添加</string>
     <string name="setting">设置</string>
     <string name="day">周一 周二 周三 周四 周五 周六 周日</string>
+    
 
 </resources>

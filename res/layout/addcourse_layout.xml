@@ -4,5 +4,40 @@
     android:layout_height="match_parent"
     android:background="@drawable/background7" >
     
+    <TextView
+        android:id="@+id/addCourseTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:text="@string/addCourseTitle"
+        android:textColor="#ffffff"
+        android:textSize="90sp" />
+    
+    <TextView
+        android:id="@+id/addCourseSure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/sure"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+    
+    <TextView
+        android:id="@+id/addCourseCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/cancel"
+        android:textColor="#ffffff"
+        android:textSize="30sp" />
+    
 
 </RelativeLayout>

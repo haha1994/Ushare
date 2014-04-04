@@ -41,6 +41,10 @@
         </activity>
         
         <activity
+            android:name="com.haha.ushare.AddCourse">
+        </activity>
+        
+        <activity
             android:name="com.haha.ushare.Setting">
         </activity>
         

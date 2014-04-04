@@ -13,6 +13,7 @@ public class Course extends Activity{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.course_layout);
 		
+		//AddCourse
 		TextView addCourse = (TextView)findViewById(R.id.addCourse);
 		addCourse.setOnClickListener(new OnClickListener() {
 			

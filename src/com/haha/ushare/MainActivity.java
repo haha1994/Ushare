@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
 			
 			@Override
 			public void onClick(View arg0) {
-				toast("no course!");
+//				toast("no course!");
 				Intent intent = new Intent(MainActivity.this,Course.class);
 				startActivity(intent);
 			}
